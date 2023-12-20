@@ -11,7 +11,7 @@ After all operations, it checks the ResponseBodies and if successful, it prints 
 ## How to Use
 
 1. **API Key and Token Acquisition:**
-   The project requires a valid API key and token to use the Trello API. You can get this information from [Trello Developer](https://developer.trello.com/).
+   The project requires a valid API key and token to use the Trello API. You can get this information from [Trello Developer](https://developer.atlassian.com/cloud/trello/rest/).
 
 2. **Installing Maven Dependencies:**
    To install project dependencies, enter the following command in the terminal or command prompt:
