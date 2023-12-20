@@ -1,0 +1,2802 @@
+21:14:45.624 [main] INFO  utils.LoggerUtil - Expected: Yeni_Pano
+Actual: Yeni_Pano
+21:14:45.653 [main] INFO  utils.LoggerUtil - Board oluşturuldu!
+Response Body: {
+    "id": "6581dd931b40d7f24bbcee9b",
+    "name": "Yeni_Pano",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "idOrganization": "602bbaa982018f0d254a79b9",
+    "idEnterprise": null,
+    "pinned": false,
+    "url": "https://trello.com/b/LRJL4oxm/yenipano",
+    "shortUrl": "https://trello.com/b/LRJL4oxm",
+    "prefs": {
+        "permissionLevel": "private",
+        "hideVotes": false,
+        "voting": "disabled",
+        "comments": "members",
+        "invitations": "members",
+        "selfJoin": true,
+        "cardCovers": true,
+        "cardCounts": false,
+        "isTemplate": false,
+        "cardAging": "regular",
+        "calendarFeedEnabled": false,
+        "hiddenPluginBoardButtons": [
+            
+        ],
+        "switcherViews": [
+            {
+                "viewType": "Board",
+                "enabled": true
+            },
+            {
+                "viewType": "Table",
+                "enabled": true
+            },
+            {
+                "viewType": "Calendar",
+                "enabled": false
+            },
+            {
+                "viewType": "Dashboard",
+                "enabled": false
+            },
+            {
+                "viewType": "Timeline",
+                "enabled": false
+            },
+            {
+                "viewType": "Map",
+                "enabled": false
+            }
+        ],
+        "background": "blue",
+        "backgroundColor": "#0079BF",
+        "backgroundImage": null,
+        "backgroundTile": false,
+        "backgroundBrightness": "dark",
+        "backgroundImageScaled": null,
+        "backgroundBottomColor": "#0079BF",
+        "backgroundTopColor": "#0079BF",
+        "canBePublic": true,
+        "canBeEnterprise": true,
+        "canBeOrg": true,
+        "canBePrivate": true,
+        "canInvite": true
+    },
+    "labelNames": {
+        "green": "",
+        "yellow": "",
+        "orange": "",
+        "red": "",
+        "purple": "",
+        "blue": "",
+        "sky": "",
+        "lime": "",
+        "pink": "",
+        "black": "",
+        "green_dark": "",
+        "yellow_dark": "",
+        "orange_dark": "",
+        "red_dark": "",
+        "purple_dark": "",
+        "blue_dark": "",
+        "sky_dark": "",
+        "lime_dark": "",
+        "pink_dark": "",
+        "black_dark": "",
+        "green_light": "",
+        "yellow_light": "",
+        "orange_light": "",
+        "red_light": "",
+        "purple_light": "",
+        "blue_light": "",
+        "sky_light": "",
+        "lime_light": "",
+        "pink_light": "",
+        "black_light": ""
+    },
+    "limits": {
+        
+    }
+}
+21:14:45.672 [main] INFO  utils.LoggerUtil - Board ID: 6581dd931b40d7f24bbcee9b
+21:14:46.147 [main] INFO  utils.LoggerUtil - Expected: Yeni_Liste1
+Actual: Yeni_Liste1
+21:14:46.148 [main] INFO  utils.LoggerUtil - İki kart oluşturuldu!
+Response Body: {
+    "id": "6581dd949b379c7d50f3de63",
+    "name": "Yeni_Liste1",
+    "closed": false,
+    "color": null,
+    "idBoard": "6581dd931b40d7f24bbcee9b",
+    "pos": 8192,
+    "limits": {
+        
+    }
+}
+21:14:46.157 [main] INFO  utils.LoggerUtil - List ID: 6581dd949b379c7d50f3de63
+21:14:46.597 [main] INFO  utils.LoggerUtil - Expected: Yeni_Liste2
+Actual: Yeni_Liste2
+21:14:46.597 [main] INFO  utils.LoggerUtil - İki kart oluşturuldu!
+Response Body: {
+    "id": "6581dd95a73f8bd0d8a5bc4f",
+    "name": "Yeni_Liste2",
+    "closed": false,
+    "color": null,
+    "idBoard": "6581dd931b40d7f24bbcee9b",
+    "pos": 4096,
+    "limits": {
+        
+    }
+}
+21:14:46.604 [main] INFO  utils.LoggerUtil - List ID: 6581dd95a73f8bd0d8a5bc4f
+21:14:47.166 [main] INFO  utils.LoggerUtil - Expected: Yeni_Kart1
+Actual: Yeni_Kart1
+21:14:47.167 [main] INFO  utils.LoggerUtil - İki kart oluşturuldu!
+Response Body: {
+    "id": "6581dd95a4155d3c4ab29785",
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dueComplete": false,
+    "dateLastActivity": "2023-12-19T18:14:45.907Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "idBoard": "6581dd931b40d7f24bbcee9b",
+    "idChecklists": [
+        
+    ],
+    "idList": "6581dd95a73f8bd0d8a5bc4f",
+    "idMembers": [
+        
+    ],
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "labels": [
+        
+    ],
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "Yeni_Kart1",
+    "pos": 16384,
+    "shortLink": "3uBLFfrH",
+    "shortUrl": "https://trello.com/c/3uBLFfrH",
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/3uBLFfrH/1-yenikart1",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+        
+    ],
+    "stickers": [
+        
+    ],
+    "limits": {
+        
+    }
+}
+21:14:47.177 [main] INFO  utils.LoggerUtil - First Card ID: 6581dd95a4155d3c4ab29785
+21:14:47.751 [main] INFO  utils.LoggerUtil - Expected: Yeni_Kart2
+Actual: Yeni_Kart2
+21:14:47.752 [main] INFO  utils.LoggerUtil - İki kart oluşturuldu!
+Response Body: {
+    "id": "6581dd961e32bf01323c7947",
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dueComplete": false,
+    "dateLastActivity": "2023-12-19T18:14:46.479Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "idBoard": "6581dd931b40d7f24bbcee9b",
+    "idChecklists": [
+        
+    ],
+    "idList": "6581dd95a73f8bd0d8a5bc4f",
+    "idMembers": [
+        
+    ],
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 2,
+    "idAttachmentCover": null,
+    "labels": [
+        
+    ],
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "Yeni_Kart2",
+    "pos": 32768,
+    "shortLink": "kHRND3E4",
+    "shortUrl": "https://trello.com/c/kHRND3E4",
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/kHRND3E4/2-yenikart2",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+        
+    ],
+    "stickers": [
+        
+    ],
+    "limits": {
+        
+    }
+}
+21:14:47.762 [main] INFO  utils.LoggerUtil - First Card ID: 6581dd95a4155d3c4ab29785
+21:14:48.246 [main] INFO  utils.LoggerUtil - Expected: Güncellenmiş_Kart
+Actual: Güncellenmiş_Kart
+21:14:48.249 [main] INFO  utils.LoggerUtil - Liste güncellendi!
+Response Body: {
+    "id": "6581dd95a4155d3c4ab29785",
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dueComplete": false,
+    "dateLastActivity": "2023-12-19T18:14:47.010Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "idBoard": "6581dd931b40d7f24bbcee9b",
+    "idChecklists": [
+        
+    ],
+    "idList": "6581dd95a73f8bd0d8a5bc4f",
+    "idMembers": [
+        
+    ],
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "labels": [
+        
+    ],
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "Güncellenmiş_Kart",
+    "pos": 16384,
+    "shortLink": "3uBLFfrH",
+    "shortUrl": "https://trello.com/c/3uBLFfrH",
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/3uBLFfrH/1-g%C3%BCncellenmi%C5%9Fkart",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null
+}
+21:14:49.722 [main] INFO  utils.LoggerUtil - Expected: null
+Actual: null
+21:14:49.723 [main] INFO  utils.LoggerUtil - İki kart silindi!
+Response Body: {
+    "limits": {
+        
+    }
+}
+21:14:49.729 [main] INFO  utils.LoggerUtil - Expected: null
+Actual: null
+21:14:49.729 [main] INFO  utils.LoggerUtil - İki kart silindi!
+Response Body: {
+    "limits": {
+        
+    }
+}
+21:14:51.089 [main] INFO  utils.LoggerUtil - Expected: null
+Actual: null
+21:14:51.089 [main] INFO  utils.LoggerUtil - Board silindi!
+Response Body: {
+    "_value": null
+}
+18:10:50.917 [main] INFO  utils.LoggerUtil - Expected: New_Pano
+Actual: New_Pano
+18:10:50.947 [main] INFO  utils.LoggerUtil - Board has been created!
+Response Body: {
+    "id": "658303f9a9d42ea301081581",
+    "name": "New_Pano",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "idOrganization": "602bbaa982018f0d254a79b9",
+    "idEnterprise": null,
+    "pinned": false,
+    "url": "https://trello.com/b/5CwYWsFQ/newpano",
+    "shortUrl": "https://trello.com/b/5CwYWsFQ",
+    "prefs": {
+        "permissionLevel": "private",
+        "hideVotes": false,
+        "voting": "disabled",
+        "comments": "members",
+        "invitations": "members",
+        "selfJoin": true,
+        "cardCovers": true,
+        "cardCounts": false,
+        "isTemplate": false,
+        "cardAging": "regular",
+        "calendarFeedEnabled": false,
+        "hiddenPluginBoardButtons": [
+            
+        ],
+        "switcherViews": [
+            {
+                "viewType": "Board",
+                "enabled": true
+            },
+            {
+                "viewType": "Table",
+                "enabled": true
+            },
+            {
+                "viewType": "Calendar",
+                "enabled": false
+            },
+            {
+                "viewType": "Dashboard",
+                "enabled": false
+            },
+            {
+                "viewType": "Timeline",
+                "enabled": false
+            },
+            {
+                "viewType": "Map",
+                "enabled": false
+            }
+        ],
+        "background": "blue",
+        "backgroundColor": "#0079BF",
+        "backgroundImage": null,
+        "backgroundTile": false,
+        "backgroundBrightness": "dark",
+        "backgroundImageScaled": null,
+        "backgroundBottomColor": "#0079BF",
+        "backgroundTopColor": "#0079BF",
+        "canBePublic": true,
+        "canBeEnterprise": true,
+        "canBeOrg": true,
+        "canBePrivate": true,
+        "canInvite": true
+    },
+    "labelNames": {
+        "green": "",
+        "yellow": "",
+        "orange": "",
+        "red": "",
+        "purple": "",
+        "blue": "",
+        "sky": "",
+        "lime": "",
+        "pink": "",
+        "black": "",
+        "green_dark": "",
+        "yellow_dark": "",
+        "orange_dark": "",
+        "red_dark": "",
+        "purple_dark": "",
+        "blue_dark": "",
+        "sky_dark": "",
+        "lime_dark": "",
+        "pink_dark": "",
+        "black_dark": "",
+        "green_light": "",
+        "yellow_light": "",
+        "orange_light": "",
+        "red_light": "",
+        "purple_light": "",
+        "blue_light": "",
+        "sky_light": "",
+        "lime_light": "",
+        "pink_light": "",
+        "black_light": ""
+    },
+    "limits": {
+        
+    }
+}
+18:10:50.964 [main] INFO  utils.LoggerUtil - Board ID: 658303f9a9d42ea301081581
+18:10:51.436 [main] INFO  utils.LoggerUtil - Expected: New_List1
+Actual: New_List1
+18:10:51.437 [main] INFO  utils.LoggerUtil - List has been created!
+Response Body: {
+    "id": "658303fbdd041194c66a5f96",
+    "name": "New_List1",
+    "closed": false,
+    "color": null,
+    "idBoard": "658303f9a9d42ea301081581",
+    "pos": 8192,
+    "limits": {
+        
+    }
+}
+18:10:51.443 [main] INFO  utils.LoggerUtil - List ID: 658303fbdd041194c66a5f96
+18:10:51.978 [main] INFO  utils.LoggerUtil - Expected: New_List2
+Actual: New_List2
+18:10:51.979 [main] INFO  utils.LoggerUtil - List has been created!
+Response Body: {
+    "id": "658303fb4061622672780e0c",
+    "name": "New_List2",
+    "closed": false,
+    "color": null,
+    "idBoard": "658303f9a9d42ea301081581",
+    "pos": 4096,
+    "limits": {
+        
+    }
+}
+18:10:51.987 [main] INFO  utils.LoggerUtil - List ID: 658303fb4061622672780e0c
+18:10:52.504 [main] INFO  utils.LoggerUtil - Expected: New_Card1
+Actual: New_Card1
+18:10:52.505 [main] INFO  utils.LoggerUtil - Cart has been created!
+Response Body: {
+    "id": "658303fc90b649b451b13c0d",
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dueComplete": false,
+    "dateLastActivity": "2023-12-20T15:10:52.225Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "idBoard": "658303f9a9d42ea301081581",
+    "idChecklists": [
+        
+    ],
+    "idList": "658303fb4061622672780e0c",
+    "idMembers": [
+        
+    ],
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "labels": [
+        
+    ],
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "New_Card1",
+    "pos": 16384,
+    "shortLink": "9mHaxLNk",
+    "shortUrl": "https://trello.com/c/9mHaxLNk",
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/9mHaxLNk/1-newcard1",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+        
+    ],
+    "stickers": [
+        
+    ],
+    "limits": {
+        
+    }
+}
+18:10:52.515 [main] INFO  utils.LoggerUtil - First Card ID: 658303fc90b649b451b13c0d
+18:10:52.999 [main] INFO  utils.LoggerUtil - Expected: New_Card2
+Actual: New_Card2
+18:10:53.000 [main] INFO  utils.LoggerUtil - Cart has been created!
+Response Body: {
+    "id": "658303fc3fc575e476a715bb",
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dueComplete": false,
+    "dateLastActivity": "2023-12-20T15:10:52.733Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "idBoard": "658303f9a9d42ea301081581",
+    "idChecklists": [
+        
+    ],
+    "idList": "658303fb4061622672780e0c",
+    "idMembers": [
+        
+    ],
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 2,
+    "idAttachmentCover": null,
+    "labels": [
+        
+    ],
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "New_Card2",
+    "pos": 32768,
+    "shortLink": "4PXY9ESk",
+    "shortUrl": "https://trello.com/c/4PXY9ESk",
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/4PXY9ESk/2-newcard2",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+        
+    ],
+    "stickers": [
+        
+    ],
+    "limits": {
+        
+    }
+}
+18:10:53.011 [main] INFO  utils.LoggerUtil - First Card ID: 658303fc90b649b451b13c0d
+18:10:53.726 [main] INFO  utils.LoggerUtil - Expected: Updated_Card
+Actual: Updated_Card
+18:10:53.727 [main] INFO  utils.LoggerUtil - Card updated!
+Response Body: {
+    "id": "658303fc90b649b451b13c0d",
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dueComplete": false,
+    "dateLastActivity": "2023-12-20T15:10:53.477Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "idBoard": "658303f9a9d42ea301081581",
+    "idChecklists": [
+        
+    ],
+    "idList": "658303fb4061622672780e0c",
+    "idMembers": [
+        
+    ],
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "labels": [
+        
+    ],
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "Updated_Card",
+    "pos": 16384,
+    "shortLink": "9mHaxLNk",
+    "shortUrl": "https://trello.com/c/9mHaxLNk",
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/9mHaxLNk/1-updatedcard",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null
+}
+18:10:55.115 [main] INFO  utils.LoggerUtil - Expected: null
+Actual: null
+18:10:55.115 [main] INFO  utils.LoggerUtil - First Card deleted!
+Response Body: {
+    "limits": {
+        
+    }
+}
+18:10:55.121 [main] INFO  utils.LoggerUtil - Expected: null
+Actual: null
+18:10:55.122 [main] INFO  utils.LoggerUtil - Second Card deleted!
+Response Body: {
+    "limits": {
+        
+    }
+}
+18:10:56.558 [main] INFO  utils.LoggerUtil - Expected: null
+Actual: null
+18:10:56.558 [main] INFO  utils.LoggerUtil - Board deleted!
+Response Body: {
+    "_value": null
+}
+18:16:27.677 [main] INFO  utils.LoggerUtil - Expected: New_Pano
+Actual: New_Pano
+18:16:27.726 [main] INFO  utils.LoggerUtil - Board has been created!
+Response Body: {
+    "id": "6583054a1b7e35119b2af2b8",
+    "name": "New_Pano",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "idOrganization": "602bbaa982018f0d254a79b9",
+    "idEnterprise": null,
+    "pinned": false,
+    "url": "https://trello.com/b/wLoyq5wC/newpano",
+    "shortUrl": "https://trello.com/b/wLoyq5wC",
+    "prefs": {
+        "permissionLevel": "private",
+        "hideVotes": false,
+        "voting": "disabled",
+        "comments": "members",
+        "invitations": "members",
+        "selfJoin": true,
+        "cardCovers": true,
+        "cardCounts": false,
+        "isTemplate": false,
+        "cardAging": "regular",
+        "calendarFeedEnabled": false,
+        "hiddenPluginBoardButtons": [
+            
+        ],
+        "switcherViews": [
+            {
+                "viewType": "Board",
+                "enabled": true
+            },
+            {
+                "viewType": "Table",
+                "enabled": true
+            },
+            {
+                "viewType": "Calendar",
+                "enabled": false
+            },
+            {
+                "viewType": "Dashboard",
+                "enabled": false
+            },
+            {
+                "viewType": "Timeline",
+                "enabled": false
+            },
+            {
+                "viewType": "Map",
+                "enabled": false
+            }
+        ],
+        "background": "blue",
+        "backgroundColor": "#0079BF",
+        "backgroundImage": null,
+        "backgroundTile": false,
+        "backgroundBrightness": "dark",
+        "backgroundImageScaled": null,
+        "backgroundBottomColor": "#0079BF",
+        "backgroundTopColor": "#0079BF",
+        "canBePublic": true,
+        "canBeEnterprise": true,
+        "canBeOrg": true,
+        "canBePrivate": true,
+        "canInvite": true
+    },
+    "labelNames": {
+        "green": "",
+        "yellow": "",
+        "orange": "",
+        "red": "",
+        "purple": "",
+        "blue": "",
+        "sky": "",
+        "lime": "",
+        "pink": "",
+        "black": "",
+        "green_dark": "",
+        "yellow_dark": "",
+        "orange_dark": "",
+        "red_dark": "",
+        "purple_dark": "",
+        "blue_dark": "",
+        "sky_dark": "",
+        "lime_dark": "",
+        "pink_dark": "",
+        "black_dark": "",
+        "green_light": "",
+        "yellow_light": "",
+        "orange_light": "",
+        "red_light": "",
+        "purple_light": "",
+        "blue_light": "",
+        "sky_light": "",
+        "lime_light": "",
+        "pink_light": "",
+        "black_light": ""
+    },
+    "limits": {
+        
+    }
+}
+18:16:27.752 [main] INFO  utils.LoggerUtil - Board ID: 6583054a1b7e35119b2af2b8
+18:16:28.227 [main] INFO  utils.LoggerUtil - Expected: New_List1
+Actual: New_List1
+18:16:28.228 [main] INFO  utils.LoggerUtil - List has been created!
+Response Body: {
+    "id": "6583054b244655aa542118e8",
+    "name": "New_List1",
+    "closed": false,
+    "color": null,
+    "idBoard": "6583054a1b7e35119b2af2b8",
+    "pos": 8192,
+    "limits": {
+        
+    }
+}
+18:16:28.235 [main] INFO  utils.LoggerUtil - List ID: 6583054b244655aa542118e8
+18:16:28.672 [main] INFO  utils.LoggerUtil - Expected: New_List2
+Actual: New_List2
+18:16:28.672 [main] INFO  utils.LoggerUtil - List has been created!
+Response Body: {
+    "id": "6583054cb375222c72beadfa",
+    "name": "New_List2",
+    "closed": false,
+    "color": null,
+    "idBoard": "6583054a1b7e35119b2af2b8",
+    "pos": 4096,
+    "limits": {
+        
+    }
+}
+18:16:28.679 [main] INFO  utils.LoggerUtil - List ID: 6583054cb375222c72beadfa
+18:16:29.243 [main] INFO  utils.LoggerUtil - Expected: New_Card1
+Actual: New_Card1
+18:16:29.245 [main] INFO  utils.LoggerUtil - Cart has been created!
+Response Body: {
+    "id": "6583054c6aa95f7ff124e235",
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dueComplete": false,
+    "dateLastActivity": "2023-12-20T15:16:28.960Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "idBoard": "6583054a1b7e35119b2af2b8",
+    "idChecklists": [
+        
+    ],
+    "idList": "6583054cb375222c72beadfa",
+    "idMembers": [
+        
+    ],
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "labels": [
+        
+    ],
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "New_Card1",
+    "pos": 16384,
+    "shortLink": "taiK2egY",
+    "shortUrl": "https://trello.com/c/taiK2egY",
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/taiK2egY/1-newcard1",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+        
+    ],
+    "stickers": [
+        
+    ],
+    "limits": {
+        
+    }
+}
+18:16:29.255 [main] INFO  utils.LoggerUtil - First Card ID: 6583054c6aa95f7ff124e235
+18:16:29.771 [main] INFO  utils.LoggerUtil - Expected: New_Card2
+Actual: New_Card2
+18:16:29.772 [main] INFO  utils.LoggerUtil - Cart has been created!
+Response Body: {
+    "id": "6583054d570cd5c4c95aea53",
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dueComplete": false,
+    "dateLastActivity": "2023-12-20T15:16:29.486Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "idBoard": "6583054a1b7e35119b2af2b8",
+    "idChecklists": [
+        
+    ],
+    "idList": "6583054cb375222c72beadfa",
+    "idMembers": [
+        
+    ],
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 2,
+    "idAttachmentCover": null,
+    "labels": [
+        
+    ],
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "New_Card2",
+    "pos": 32768,
+    "shortLink": "K2zoRdTx",
+    "shortUrl": "https://trello.com/c/K2zoRdTx",
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/K2zoRdTx/2-newcard2",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+        
+    ],
+    "stickers": [
+        
+    ],
+    "limits": {
+        
+    }
+}
+18:16:29.784 [main] INFO  utils.LoggerUtil - First Card ID: 6583054c6aa95f7ff124e235
+18:16:30.208 [main] INFO  utils.LoggerUtil - Expected: Updated_Card
+Actual: Updated_Card
+18:16:30.209 [main] INFO  utils.LoggerUtil - Card updated!
+Response Body: {
+    "id": "6583054c6aa95f7ff124e235",
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dueComplete": false,
+    "dateLastActivity": "2023-12-20T15:16:29.963Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "idBoard": "6583054a1b7e35119b2af2b8",
+    "idChecklists": [
+        
+    ],
+    "idList": "6583054cb375222c72beadfa",
+    "idMembers": [
+        
+    ],
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "labels": [
+        
+    ],
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "Updated_Card",
+    "pos": 16384,
+    "shortLink": "taiK2egY",
+    "shortUrl": "https://trello.com/c/taiK2egY",
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/taiK2egY/1-updatedcard",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null
+}
+20:56:10.755 [main] INFO  utils.LoggerUtil - Expected: New_Pano
+Actual: New_Pano
+20:56:10.782 [main] INFO  utils.LoggerUtil - Board has been created!
+Response Body: {
+    "id": "65832ab9ea4392e1368a53e9",
+    "name": "New_Pano",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "idOrganization": "602bbaa982018f0d254a79b9",
+    "idEnterprise": null,
+    "pinned": false,
+    "url": "https://trello.com/b/dW7jnG2z/newpano",
+    "shortUrl": "https://trello.com/b/dW7jnG2z",
+    "prefs": {
+        "permissionLevel": "private",
+        "hideVotes": false,
+        "voting": "disabled",
+        "comments": "members",
+        "invitations": "members",
+        "selfJoin": true,
+        "cardCovers": true,
+        "cardCounts": false,
+        "isTemplate": false,
+        "cardAging": "regular",
+        "calendarFeedEnabled": false,
+        "hiddenPluginBoardButtons": [
+            
+        ],
+        "switcherViews": [
+            {
+                "viewType": "Board",
+                "enabled": true
+            },
+            {
+                "viewType": "Table",
+                "enabled": true
+            },
+            {
+                "viewType": "Calendar",
+                "enabled": false
+            },
+            {
+                "viewType": "Dashboard",
+                "enabled": false
+            },
+            {
+                "viewType": "Timeline",
+                "enabled": false
+            },
+            {
+                "viewType": "Map",
+                "enabled": false
+            }
+        ],
+        "background": "blue",
+        "backgroundColor": "#0079BF",
+        "backgroundImage": null,
+        "backgroundTile": false,
+        "backgroundBrightness": "dark",
+        "backgroundImageScaled": null,
+        "backgroundBottomColor": "#0079BF",
+        "backgroundTopColor": "#0079BF",
+        "canBePublic": true,
+        "canBeEnterprise": true,
+        "canBeOrg": true,
+        "canBePrivate": true,
+        "canInvite": true
+    },
+    "labelNames": {
+        "green": "",
+        "yellow": "",
+        "orange": "",
+        "red": "",
+        "purple": "",
+        "blue": "",
+        "sky": "",
+        "lime": "",
+        "pink": "",
+        "black": "",
+        "green_dark": "",
+        "yellow_dark": "",
+        "orange_dark": "",
+        "red_dark": "",
+        "purple_dark": "",
+        "blue_dark": "",
+        "sky_dark": "",
+        "lime_dark": "",
+        "pink_dark": "",
+        "black_dark": "",
+        "green_light": "",
+        "yellow_light": "",
+        "orange_light": "",
+        "red_light": "",
+        "purple_light": "",
+        "blue_light": "",
+        "sky_light": "",
+        "lime_light": "",
+        "pink_light": "",
+        "black_light": ""
+    },
+    "limits": {
+        
+    }
+}
+20:56:10.803 [main] INFO  utils.LoggerUtil - Board ID: 65832ab9ea4392e1368a53e9
+20:56:11.327 [main] INFO  utils.LoggerUtil - Expected: New_List1
+Actual: New_List1
+20:56:11.328 [main] INFO  utils.LoggerUtil - List has been created!
+Response Body: {
+    "id": "65832abbfbd735f525d9e33a",
+    "name": "New_List1",
+    "closed": false,
+    "color": null,
+    "idBoard": "65832ab9ea4392e1368a53e9",
+    "pos": 8192,
+    "limits": {
+        
+    }
+}
+20:56:11.335 [main] INFO  utils.LoggerUtil - List ID: 65832abbfbd735f525d9e33a
+20:56:12.161 [main] INFO  utils.LoggerUtil - Expected: New_List2
+Actual: New_List2
+20:56:12.162 [main] INFO  utils.LoggerUtil - List has been created!
+Response Body: {
+    "id": "65832abbee1e7e93d4676c36",
+    "name": "New_List2",
+    "closed": false,
+    "color": null,
+    "idBoard": "65832ab9ea4392e1368a53e9",
+    "pos": 4096,
+    "limits": {
+        
+    }
+}
+20:56:12.168 [main] INFO  utils.LoggerUtil - List ID: 65832abbee1e7e93d4676c36
+20:56:12.823 [main] INFO  utils.LoggerUtil - Expected: New_Card1
+Actual: New_Card1
+20:56:12.824 [main] INFO  utils.LoggerUtil - Cart has been created!
+Response Body: {
+    "id": "65832abcf56a949e830f0caf",
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dueComplete": false,
+    "dateLastActivity": "2023-12-20T17:56:12.467Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "idBoard": "65832ab9ea4392e1368a53e9",
+    "idChecklists": [
+        
+    ],
+    "idList": "65832abbee1e7e93d4676c36",
+    "idMembers": [
+        
+    ],
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "labels": [
+        
+    ],
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "New_Card1",
+    "pos": 16384,
+    "shortLink": "W8a4NNtM",
+    "shortUrl": "https://trello.com/c/W8a4NNtM",
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/W8a4NNtM/1-newcard1",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+        
+    ],
+    "stickers": [
+        
+    ],
+    "limits": {
+        
+    }
+}
+20:56:12.833 [main] INFO  utils.LoggerUtil - First Card ID: 65832abcf56a949e830f0caf
+20:56:13.685 [main] INFO  utils.LoggerUtil - Expected: New_Card2
+Actual: New_Card2
+20:56:13.686 [main] INFO  utils.LoggerUtil - Cart has been created!
+Response Body: {
+    "id": "65832abd44ffb396bbf84766",
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dueComplete": false,
+    "dateLastActivity": "2023-12-20T17:56:13.280Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "idBoard": "65832ab9ea4392e1368a53e9",
+    "idChecklists": [
+        
+    ],
+    "idList": "65832abbee1e7e93d4676c36",
+    "idMembers": [
+        
+    ],
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 2,
+    "idAttachmentCover": null,
+    "labels": [
+        
+    ],
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "New_Card2",
+    "pos": 32768,
+    "shortLink": "W7cVl6Q7",
+    "shortUrl": "https://trello.com/c/W7cVl6Q7",
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/W7cVl6Q7/2-newcard2",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+        
+    ],
+    "stickers": [
+        
+    ],
+    "limits": {
+        
+    }
+}
+20:56:13.697 [main] INFO  utils.LoggerUtil - First Card ID: 65832abcf56a949e830f0caf
+20:56:34.143 [main] INFO  utils.LoggerUtil - Expected: New_Pano
+Actual: New_Pano
+20:56:34.172 [main] INFO  utils.LoggerUtil - Board has been created!
+Response Body: {
+    "id": "65832ad117f132b9179d54d3",
+    "name": "New_Pano",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "idOrganization": "602bbaa982018f0d254a79b9",
+    "idEnterprise": null,
+    "pinned": false,
+    "url": "https://trello.com/b/2ml5NolB/newpano",
+    "shortUrl": "https://trello.com/b/2ml5NolB",
+    "prefs": {
+        "permissionLevel": "private",
+        "hideVotes": false,
+        "voting": "disabled",
+        "comments": "members",
+        "invitations": "members",
+        "selfJoin": true,
+        "cardCovers": true,
+        "cardCounts": false,
+        "isTemplate": false,
+        "cardAging": "regular",
+        "calendarFeedEnabled": false,
+        "hiddenPluginBoardButtons": [
+            
+        ],
+        "switcherViews": [
+            {
+                "viewType": "Board",
+                "enabled": true
+            },
+            {
+                "viewType": "Table",
+                "enabled": true
+            },
+            {
+                "viewType": "Calendar",
+                "enabled": false
+            },
+            {
+                "viewType": "Dashboard",
+                "enabled": false
+            },
+            {
+                "viewType": "Timeline",
+                "enabled": false
+            },
+            {
+                "viewType": "Map",
+                "enabled": false
+            }
+        ],
+        "background": "blue",
+        "backgroundColor": "#0079BF",
+        "backgroundImage": null,
+        "backgroundTile": false,
+        "backgroundBrightness": "dark",
+        "backgroundImageScaled": null,
+        "backgroundBottomColor": "#0079BF",
+        "backgroundTopColor": "#0079BF",
+        "canBePublic": true,
+        "canBeEnterprise": true,
+        "canBeOrg": true,
+        "canBePrivate": true,
+        "canInvite": true
+    },
+    "labelNames": {
+        "green": "",
+        "yellow": "",
+        "orange": "",
+        "red": "",
+        "purple": "",
+        "blue": "",
+        "sky": "",
+        "lime": "",
+        "pink": "",
+        "black": "",
+        "green_dark": "",
+        "yellow_dark": "",
+        "orange_dark": "",
+        "red_dark": "",
+        "purple_dark": "",
+        "blue_dark": "",
+        "sky_dark": "",
+        "lime_dark": "",
+        "pink_dark": "",
+        "black_dark": "",
+        "green_light": "",
+        "yellow_light": "",
+        "orange_light": "",
+        "red_light": "",
+        "purple_light": "",
+        "blue_light": "",
+        "sky_light": "",
+        "lime_light": "",
+        "pink_light": "",
+        "black_light": ""
+    },
+    "limits": {
+        
+    }
+}
+20:56:34.189 [main] INFO  utils.LoggerUtil - Board ID: 65832ad117f132b9179d54d3
+20:56:34.612 [main] INFO  utils.LoggerUtil - Expected: New_List1
+Actual: New_List1
+20:56:34.612 [main] INFO  utils.LoggerUtil - List has been created!
+Response Body: {
+    "id": "65832ad22388f518e59c8773",
+    "name": "New_List1",
+    "closed": false,
+    "color": null,
+    "idBoard": "65832ad117f132b9179d54d3",
+    "pos": 8192,
+    "limits": {
+        
+    }
+}
+20:56:34.619 [main] INFO  utils.LoggerUtil - List ID: 65832ad22388f518e59c8773
+20:56:35.373 [main] INFO  utils.LoggerUtil - Expected: New_List2
+Actual: New_List2
+20:56:35.374 [main] INFO  utils.LoggerUtil - List has been created!
+Response Body: {
+    "id": "65832ad3f9d2df4fabd0f684",
+    "name": "New_List2",
+    "closed": false,
+    "color": null,
+    "idBoard": "65832ad117f132b9179d54d3",
+    "pos": 4096,
+    "limits": {
+        
+    }
+}
+20:56:35.381 [main] INFO  utils.LoggerUtil - List ID: 65832ad3f9d2df4fabd0f684
+20:56:35.887 [main] INFO  utils.LoggerUtil - Expected: New_Card1
+Actual: New_Card1
+20:56:35.888 [main] INFO  utils.LoggerUtil - Cart has been created!
+Response Body: {
+    "id": "65832ad3653aaa0be231f46e",
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dueComplete": false,
+    "dateLastActivity": "2023-12-20T17:56:35.644Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "idBoard": "65832ad117f132b9179d54d3",
+    "idChecklists": [
+        
+    ],
+    "idList": "65832ad3f9d2df4fabd0f684",
+    "idMembers": [
+        
+    ],
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "labels": [
+        
+    ],
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "New_Card1",
+    "pos": 16384,
+    "shortLink": "0TBiSREB",
+    "shortUrl": "https://trello.com/c/0TBiSREB",
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/0TBiSREB/1-newcard1",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+        
+    ],
+    "stickers": [
+        
+    ],
+    "limits": {
+        
+    }
+}
+20:56:35.899 [main] INFO  utils.LoggerUtil - First Card ID: 65832ad3653aaa0be231f46e
+20:56:36.595 [main] INFO  utils.LoggerUtil - Expected: New_Card2
+Actual: New_Card2
+20:56:36.596 [main] INFO  utils.LoggerUtil - Cart has been created!
+Response Body: {
+    "id": "65832ad4216cf82aef8c9ac5",
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dueComplete": false,
+    "dateLastActivity": "2023-12-20T17:56:36.232Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "idBoard": "65832ad117f132b9179d54d3",
+    "idChecklists": [
+        
+    ],
+    "idList": "65832ad3f9d2df4fabd0f684",
+    "idMembers": [
+        
+    ],
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 2,
+    "idAttachmentCover": null,
+    "labels": [
+        
+    ],
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "New_Card2",
+    "pos": 32768,
+    "shortLink": "k6pmy3Oa",
+    "shortUrl": "https://trello.com/c/k6pmy3Oa",
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/k6pmy3Oa/2-newcard2",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+        
+    ],
+    "stickers": [
+        
+    ],
+    "limits": {
+        
+    }
+}
+20:56:36.604 [main] INFO  utils.LoggerUtil - First Card ID: 65832ad3653aaa0be231f46e
+20:56:37.352 [main] INFO  utils.LoggerUtil - Expected: Updated_Card
+Actual: Updated_Card
+20:56:37.353 [main] INFO  utils.LoggerUtil - Card updated!
+Response Body: {
+    "id": "65832ad3653aaa0be231f46e",
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dueComplete": false,
+    "dateLastActivity": "2023-12-20T17:56:37.110Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "idBoard": "65832ad117f132b9179d54d3",
+    "idChecklists": [
+        
+    ],
+    "idList": "65832ad3f9d2df4fabd0f684",
+    "idMembers": [
+        
+    ],
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "labels": [
+        
+    ],
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "Updated_Card",
+    "pos": 16384,
+    "shortLink": "0TBiSREB",
+    "shortUrl": "https://trello.com/c/0TBiSREB",
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/0TBiSREB/1-updatedcard",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null
+}
+20:56:38.955 [main] INFO  utils.LoggerUtil - Expected: null
+Actual: null
+20:56:38.955 [main] INFO  utils.LoggerUtil - First Card deleted!
+Response Body: {
+    "limits": {
+        
+    }
+}
+20:56:38.962 [main] INFO  utils.LoggerUtil - Expected: null
+Actual: null
+20:56:38.962 [main] INFO  utils.LoggerUtil - Second Card deleted!
+Response Body: {
+    "limits": {
+        
+    }
+}
+20:56:40.472 [main] INFO  utils.LoggerUtil - Expected: null
+Actual: null
+20:56:40.473 [main] INFO  utils.LoggerUtil - Board deleted!
+Response Body: {
+    "_value": null
+}
+21:05:19.630 [main] INFO  utils.LoggerUtil - Expected: New_Pano
+Actual: New_Pano
+21:05:19.658 [main] INFO  utils.LoggerUtil - Board has been created!
+Response Body: {
+    "id": "65832cdea9a70da12e45840b",
+    "name": "New_Pano",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "idOrganization": "602bbaa982018f0d254a79b9",
+    "idEnterprise": null,
+    "pinned": false,
+    "url": "https://trello.com/b/txD51B0C/newpano",
+    "shortUrl": "https://trello.com/b/txD51B0C",
+    "prefs": {
+        "permissionLevel": "private",
+        "hideVotes": false,
+        "voting": "disabled",
+        "comments": "members",
+        "invitations": "members",
+        "selfJoin": true,
+        "cardCovers": true,
+        "cardCounts": false,
+        "isTemplate": false,
+        "cardAging": "regular",
+        "calendarFeedEnabled": false,
+        "hiddenPluginBoardButtons": [
+            
+        ],
+        "switcherViews": [
+            {
+                "viewType": "Board",
+                "enabled": true
+            },
+            {
+                "viewType": "Table",
+                "enabled": true
+            },
+            {
+                "viewType": "Calendar",
+                "enabled": false
+            },
+            {
+                "viewType": "Dashboard",
+                "enabled": false
+            },
+            {
+                "viewType": "Timeline",
+                "enabled": false
+            },
+            {
+                "viewType": "Map",
+                "enabled": false
+            }
+        ],
+        "background": "blue",
+        "backgroundColor": "#0079BF",
+        "backgroundImage": null,
+        "backgroundTile": false,
+        "backgroundBrightness": "dark",
+        "backgroundImageScaled": null,
+        "backgroundBottomColor": "#0079BF",
+        "backgroundTopColor": "#0079BF",
+        "canBePublic": true,
+        "canBeEnterprise": true,
+        "canBeOrg": true,
+        "canBePrivate": true,
+        "canInvite": true
+    },
+    "labelNames": {
+        "green": "",
+        "yellow": "",
+        "orange": "",
+        "red": "",
+        "purple": "",
+        "blue": "",
+        "sky": "",
+        "lime": "",
+        "pink": "",
+        "black": "",
+        "green_dark": "",
+        "yellow_dark": "",
+        "orange_dark": "",
+        "red_dark": "",
+        "purple_dark": "",
+        "blue_dark": "",
+        "sky_dark": "",
+        "lime_dark": "",
+        "pink_dark": "",
+        "black_dark": "",
+        "green_light": "",
+        "yellow_light": "",
+        "orange_light": "",
+        "red_light": "",
+        "purple_light": "",
+        "blue_light": "",
+        "sky_light": "",
+        "lime_light": "",
+        "pink_light": "",
+        "black_light": ""
+    },
+    "limits": {
+        
+    }
+}
+21:05:19.675 [main] INFO  utils.LoggerUtil - Board ID: 65832cdea9a70da12e45840b
+21:05:20.168 [main] INFO  utils.LoggerUtil - Expected: New_List1
+Actual: New_List1
+21:05:20.168 [main] INFO  utils.LoggerUtil - List has been created!
+Response Body: {
+    "id": "65832cdf2864344ecc9dbd76",
+    "name": "New_List1",
+    "closed": false,
+    "color": null,
+    "idBoard": "65832cdea9a70da12e45840b",
+    "pos": 8192,
+    "limits": {
+        
+    }
+}
+21:05:20.175 [main] INFO  utils.LoggerUtil - List ID: 65832cdf2864344ecc9dbd76
+21:05:20.635 [main] INFO  utils.LoggerUtil - Expected: New_List2
+Actual: New_List2
+21:05:20.635 [main] INFO  utils.LoggerUtil - List has been created!
+Response Body: {
+    "id": "65832ce0a96b833fc4b00644",
+    "name": "New_List2",
+    "closed": false,
+    "color": null,
+    "idBoard": "65832cdea9a70da12e45840b",
+    "pos": 4096,
+    "limits": {
+        
+    }
+}
+21:05:20.642 [main] INFO  utils.LoggerUtil - List ID: 65832ce0a96b833fc4b00644
+21:05:21.471 [main] INFO  utils.LoggerUtil - Expected: New_Card1
+Actual: New_Card1
+21:05:21.472 [main] INFO  utils.LoggerUtil - Cart has been created!
+Response Body: {
+    "id": "65832ce1defe92c21e694128",
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dueComplete": false,
+    "dateLastActivity": "2023-12-20T18:05:21.221Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "idBoard": "65832cdea9a70da12e45840b",
+    "idChecklists": [
+        
+    ],
+    "idList": "65832ce0a96b833fc4b00644",
+    "idMembers": [
+        
+    ],
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "labels": [
+        
+    ],
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "New_Card1",
+    "pos": 16384,
+    "shortLink": "mHdemEbI",
+    "shortUrl": "https://trello.com/c/mHdemEbI",
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/mHdemEbI/1-newcard1",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+        
+    ],
+    "stickers": [
+        
+    ],
+    "limits": {
+        
+    }
+}
+21:05:21.484 [main] INFO  utils.LoggerUtil - First Card ID: 65832ce1defe92c21e694128
+21:05:21.990 [main] INFO  utils.LoggerUtil - Expected: New_Card2
+Actual: New_Card2
+21:05:21.991 [main] INFO  utils.LoggerUtil - Cart has been created!
+Response Body: {
+    "id": "65832ce1421f493e9ae40051",
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dueComplete": false,
+    "dateLastActivity": "2023-12-20T18:05:21.738Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "idBoard": "65832cdea9a70da12e45840b",
+    "idChecklists": [
+        
+    ],
+    "idList": "65832ce0a96b833fc4b00644",
+    "idMembers": [
+        
+    ],
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 2,
+    "idAttachmentCover": null,
+    "labels": [
+        
+    ],
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "New_Card2",
+    "pos": 32768,
+    "shortLink": "K4xAnsPx",
+    "shortUrl": "https://trello.com/c/K4xAnsPx",
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/K4xAnsPx/2-newcard2",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+        
+    ],
+    "stickers": [
+        
+    ],
+    "limits": {
+        
+    }
+}
+21:05:22.000 [main] INFO  utils.LoggerUtil - First Card ID: 65832ce1defe92c21e694128
+21:05:22.423 [main] INFO  utils.LoggerUtil - Expected: Updated_Card
+Actual: Updated_Card
+21:05:22.424 [main] INFO  utils.LoggerUtil - Card updated!
+Response Body: {
+    "id": "65832ce1defe92c21e694128",
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dueComplete": false,
+    "dateLastActivity": "2023-12-20T18:05:22.217Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "idBoard": "65832cdea9a70da12e45840b",
+    "idChecklists": [
+        
+    ],
+    "idList": "65832ce0a96b833fc4b00644",
+    "idMembers": [
+        
+    ],
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "labels": [
+        
+    ],
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "Updated_Card",
+    "pos": 16384,
+    "shortLink": "mHdemEbI",
+    "shortUrl": "https://trello.com/c/mHdemEbI",
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/mHdemEbI/1-updatedcard",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null
+}
+21:05:24.212 [main] INFO  utils.LoggerUtil - Expected: null
+Actual: null
+21:05:24.212 [main] INFO  utils.LoggerUtil - First Card deleted!
+Response Body: {
+    "limits": {
+        
+    }
+}
+21:05:24.218 [main] INFO  utils.LoggerUtil - Expected: null
+Actual: null
+21:05:24.219 [main] INFO  utils.LoggerUtil - Second Card deleted!
+Response Body: {
+    "limits": {
+        
+    }
+}
+21:05:25.724 [main] INFO  utils.LoggerUtil - Expected: null
+Actual: null
+21:05:25.725 [main] INFO  utils.LoggerUtil - Board deleted!
+Response Body: {
+    "_value": null
+}
+21:10:30.534 [main] INFO  utils.LoggerUtil - Expected: New_Pano
+Actual: New_Pano
+21:10:30.566 [main] INFO  utils.LoggerUtil - Board has been created!
+Response Body: {
+    "id": "65832e156caf017763cf41ea",
+    "name": "New_Pano",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "idOrganization": "602bbaa982018f0d254a79b9",
+    "idEnterprise": null,
+    "pinned": false,
+    "url": "https://trello.com/b/v6pLZNxk/newpano",
+    "shortUrl": "https://trello.com/b/v6pLZNxk",
+    "prefs": {
+        "permissionLevel": "private",
+        "hideVotes": false,
+        "voting": "disabled",
+        "comments": "members",
+        "invitations": "members",
+        "selfJoin": true,
+        "cardCovers": true,
+        "cardCounts": false,
+        "isTemplate": false,
+        "cardAging": "regular",
+        "calendarFeedEnabled": false,
+        "hiddenPluginBoardButtons": [
+            
+        ],
+        "switcherViews": [
+            {
+                "viewType": "Board",
+                "enabled": true
+            },
+            {
+                "viewType": "Table",
+                "enabled": true
+            },
+            {
+                "viewType": "Calendar",
+                "enabled": false
+            },
+            {
+                "viewType": "Dashboard",
+                "enabled": false
+            },
+            {
+                "viewType": "Timeline",
+                "enabled": false
+            },
+            {
+                "viewType": "Map",
+                "enabled": false
+            }
+        ],
+        "background": "blue",
+        "backgroundColor": "#0079BF",
+        "backgroundImage": null,
+        "backgroundTile": false,
+        "backgroundBrightness": "dark",
+        "backgroundImageScaled": null,
+        "backgroundBottomColor": "#0079BF",
+        "backgroundTopColor": "#0079BF",
+        "canBePublic": true,
+        "canBeEnterprise": true,
+        "canBeOrg": true,
+        "canBePrivate": true,
+        "canInvite": true
+    },
+    "labelNames": {
+        "green": "",
+        "yellow": "",
+        "orange": "",
+        "red": "",
+        "purple": "",
+        "blue": "",
+        "sky": "",
+        "lime": "",
+        "pink": "",
+        "black": "",
+        "green_dark": "",
+        "yellow_dark": "",
+        "orange_dark": "",
+        "red_dark": "",
+        "purple_dark": "",
+        "blue_dark": "",
+        "sky_dark": "",
+        "lime_dark": "",
+        "pink_dark": "",
+        "black_dark": "",
+        "green_light": "",
+        "yellow_light": "",
+        "orange_light": "",
+        "red_light": "",
+        "purple_light": "",
+        "blue_light": "",
+        "sky_light": "",
+        "lime_light": "",
+        "pink_light": "",
+        "black_light": ""
+    },
+    "limits": {
+        
+    }
+}
+21:10:30.584 [main] INFO  utils.LoggerUtil - Board ID: 65832e156caf017763cf41ea
+21:10:31.298 [main] INFO  utils.LoggerUtil - Expected: New_List1
+Actual: New_List1
+21:10:31.299 [main] INFO  utils.LoggerUtil - List has been created!
+Response Body: {
+    "id": "65832e174e8c2ef6a945442b",
+    "name": "New_List1",
+    "closed": false,
+    "color": null,
+    "idBoard": "65832e156caf017763cf41ea",
+    "pos": 8192,
+    "limits": {
+        
+    }
+}
+21:10:31.309 [main] INFO  utils.LoggerUtil - List ID: 65832e174e8c2ef6a945442b
+21:10:32.196 [main] INFO  utils.LoggerUtil - Expected: New_List2
+Actual: New_List2
+21:10:32.197 [main] INFO  utils.LoggerUtil - List has been created!
+Response Body: {
+    "id": "65832e177425d3fe918f5296",
+    "name": "New_List2",
+    "closed": false,
+    "color": null,
+    "idBoard": "65832e156caf017763cf41ea",
+    "pos": 4096,
+    "limits": {
+        
+    }
+}
+21:10:32.203 [main] INFO  utils.LoggerUtil - List ID: 65832e177425d3fe918f5296
+21:10:32.795 [main] INFO  utils.LoggerUtil - Expected: New_Card1
+Actual: New_Card1
+21:10:32.797 [main] INFO  utils.LoggerUtil - Cart has been created!
+Response Body: {
+    "id": "65832e183caec3e0c2746af6",
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dueComplete": false,
+    "dateLastActivity": "2023-12-20T18:10:32.510Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "idBoard": "65832e156caf017763cf41ea",
+    "idChecklists": [
+        
+    ],
+    "idList": "65832e177425d3fe918f5296",
+    "idMembers": [
+        
+    ],
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "labels": [
+        
+    ],
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "New_Card1",
+    "pos": 16384,
+    "shortLink": "DcbON29t",
+    "shortUrl": "https://trello.com/c/DcbON29t",
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/DcbON29t/1-newcard1",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+        
+    ],
+    "stickers": [
+        
+    ],
+    "limits": {
+        
+    }
+}
+21:10:32.807 [main] INFO  utils.LoggerUtil - First Card ID: 65832e183caec3e0c2746af6
+21:10:33.344 [main] INFO  utils.LoggerUtil - Expected: New_Card2
+Actual: New_Card2
+21:10:33.345 [main] INFO  utils.LoggerUtil - Cart has been created!
+Response Body: {
+    "id": "65832e19666034382da80d0f",
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dueComplete": false,
+    "dateLastActivity": "2023-12-20T18:10:33.093Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "idBoard": "65832e156caf017763cf41ea",
+    "idChecklists": [
+        
+    ],
+    "idList": "65832e177425d3fe918f5296",
+    "idMembers": [
+        
+    ],
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 2,
+    "idAttachmentCover": null,
+    "labels": [
+        
+    ],
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "New_Card2",
+    "pos": 32768,
+    "shortLink": "md1UZ24U",
+    "shortUrl": "https://trello.com/c/md1UZ24U",
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/md1UZ24U/2-newcard2",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "attachments": [
+        
+    ],
+    "stickers": [
+        
+    ],
+    "limits": {
+        
+    }
+}
+21:10:33.354 [main] INFO  utils.LoggerUtil - First Card ID: 65832e183caec3e0c2746af6
+21:10:33.835 [main] INFO  utils.LoggerUtil - Expected: Updated_Card
+Actual: Updated_Card
+21:10:33.837 [main] INFO  utils.LoggerUtil - Card updated!
+Response Body: {
+    "id": "65832e183caec3e0c2746af6",
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+    },
+    "checkItemStates": [
+        
+    ],
+    "closed": false,
+    "dueComplete": false,
+    "dateLastActivity": "2023-12-20T18:10:33.599Z",
+    "desc": "",
+    "descData": {
+        "emoji": {
+            
+        }
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "idBoard": "65832e156caf017763cf41ea",
+    "idChecklists": [
+        
+    ],
+    "idList": "65832e177425d3fe918f5296",
+    "idMembers": [
+        
+    ],
+    "idMembersVoted": [
+        
+    ],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "labels": [
+        
+    ],
+    "idLabels": [
+        
+    ],
+    "manualCoverAttachment": false,
+    "name": "Updated_Card",
+    "pos": 16384,
+    "shortLink": "DcbON29t",
+    "shortUrl": "https://trello.com/c/DcbON29t",
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/DcbON29t/1-updatedcard",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null
+}
+21:10:35.287 [main] INFO  utils.LoggerUtil - Expected: null
+Actual: null
+21:10:35.288 [main] INFO  utils.LoggerUtil - First Card deleted!
+Response Body: {
+    "limits": {
+        
+    }
+}
+21:10:35.295 [main] INFO  utils.LoggerUtil - Expected: null
+Actual: null
+21:10:35.296 [main] INFO  utils.LoggerUtil - Second Card deleted!
+Response Body: {
+    "limits": {
+        
+    }
+}
+21:10:36.619 [main] INFO  utils.LoggerUtil - Expected: null
+Actual: null
+21:10:36.619 [main] INFO  utils.LoggerUtil - Board deleted!
+Response Body: {
+    "_value": null
+}
